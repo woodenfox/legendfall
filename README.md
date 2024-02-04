@@ -2,10 +2,15 @@
 # Introduction
 Legendfall is a strategy tabletop role-playing game about adventuring through a world of legends and villains. It’s about co-creating a universe through the journeys and decisions your characters make. When you open your first Legendfall Origin pack, your character is born.  As a strategy game, players have the ability to craft a unique character, with a unique set of abilities, and tweak and adjust that character as they grow. As a roleplaying game, players walk the journey of a hero in a harsh world filled with corruption and redemption.
 
-### Choose your Game Master
+# Getting Started
+The promise of Legendfall is a game that you can learn by plying rather than requiring a deep knowledge of one or more rulebooks. The game is best started with Encounter 0 (https://www.legendfall.com/encounter-0), this setup encounter will walk you through character creation and bring you into the universe. The first 10 Encounters are designed to give you not only an introduction to the game but also build your map and monster library so that you can create and improvose your own encounters.
 
-Start by choosing someone to be your Game Master (GM). The GM is your narrator, monster master, and referee. The GM will need to take time to learn the rules at a deeper level to help support the game. The heart of what a GM needs to learn is in the Legendfall Game Masters Guide.
-
+# Mastergear
+Legendfall is brought to life by giving players special roles. When a player takes on a role, their character holds a piece of equipment known as Mastergear. If you are playing with more than four players, one or more players may not have mastergear, but that’s ok! Roles are not fixed; players can swap Mastergear at the start of each encounter.
+* **The Storyteller** - This player is the voice of the narrator, NPCs, and sets the difficulty of any social interaction checks. The most important quality of a Storyteller is a strong/clear voice. The storyteller is a social and charaisma focused role, less focused on the rules.
+* **The Wayfinder** - The Wayfinder controls the environment and sets the diffullty of all checks related to moving and interacting with the world. For example, if a player asks "can I move here" or "is this difficult terrain," the Wayfinder makes the final decision. https://cdn.legendfall.com/cardImages/final/300dpi/mastergear-wayfinder.jpg
+* **The Beastheart** - Player who holds the Beastheart controls enemeies in encounters and ensures encounters are deadly and brilliant. This particular role is best held by a player who has experience with a game like D&D or Magic the Gathering as it requires a deeper understanding of rules, mechanics, and how cards might interact.
+* **The Titanback** - The Titanback is the quartermaster and tactition for the team, they manage any treasure, XP, equipment, and manage a variety of party resources and needs. This role belongs to your most organized player, the kind of person who takes notes and likes to put everything in it's right place.
 
 ## Character Creation
 
@@ -48,8 +53,6 @@ When you run out of cards, your character is exhausted. You can still fight, but
 ### Resting After the Encounter
 
 Everything stays in play when the encounter ends, the battle might continue. To get your cards back your party needs to rest for 1 hour. When you do, shuffle all cards into your deck and reset any counters on yoru cards.
-
-\pagebreakNum
 
 # Leveling Up
 
