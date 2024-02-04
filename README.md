@@ -1,3 +1,29 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Mastergear](#mastergear)
+- [Character Creation & Setup](#character-creation--setup)
+  - [Pick Your Token & Name Your Character](#pick-your-token--name-your-character)
+  - [Setting Up Your Play Area](#setting-up-your-play-area)
+  - [Your First Encounter](#your-first-encounter)
+  - [Your First Turn](#your-first-turn)
+  - [Defending Against Attacks](#defending-against-attacks)
+  - [Role-playing](#role-playing)
+  - [Your Next Turns](#your-next-turns)
+  - [When you Run Out of Cards](#when-you-run-out-of-cards)
+  - [Resting After the Encounter](#resting-after-the-encounter)
+- [Leveling Up](#leveling-up)
+  - [Class Training](#class-training)
+  - [Adding Ranks to Skills](#adding-ranks-to-skills)
+  - [HP & Max Build](#hp--max-build)
+- [Actions](#actions)
+  - [Action Types](#action-types)
+  - [Attacking](#attacking)
+  - [Movement & Terrain](#movement--terrain)
+- [Abilities 2.0](#abilities-20)
+- [Skills 2.0](#skills-20)
+- [Items & Equipment](#items--equipment)
+- [Roleplaying](#roleplaying)
 
 # Introduction
 Legendfall is a strategy tabletop role-playing game about adventuring through a world of legends and villains. It’s about co-creating a universe through the journeys and decisions your characters make. When you open your first Legendfall Origin pack, your character is born.  As a strategy game, players have the ability to craft a unique character, with a unique set of abilities, and tweak and adjust that character as they grow. As a roleplaying game, players walk the journey of a hero in a harsh world filled with corruption and redemption.
@@ -6,6 +32,7 @@ Legendfall is a strategy tabletop role-playing game about adventuring through a 
 The promise of Legendfall is a game that you can learn by plying rather than requiring a deep knowledge of one or more rulebooks. The game is best started with Encounter 0 (https://www.legendfall.com/encounter-0), this setup encounter will walk you through character creation and bring you into the universe. The first 10 Encounters are designed to give you not only an introduction to the game but also build your map and monster library so that you can create and improvose your own encounters.
 
 # Mastergear
+Legendfall is brought to life by giving players special roles. When a player takes on a role, their character holds a piece of equipment known as Mastergear. If you are playing with more than four players, one or more players may not have mastergear, but that’s ok! Roles are not fixed; players can swap Mastergear at the start of each encounter.
 | Role + Description                                                                                                                                                                                                                                                                                                          | Image                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **The Storyteller** - This player is the voice of the narrator, NPCs, and sets the difficulty of any social interaction checks. The most important quality of a Storyteller is a strong/clear voice. The storyteller is a social and charisma focused role, less focused on the rules.                                       | <img src="https://cdn.legendfall.com/cardImages/final/300dpi/mastergear-book-of-the-storyteller.jpg" width="100%" alt="Storyteller Card">                                                                                                 |
@@ -13,14 +40,41 @@ The promise of Legendfall is a game that you can learn by plying rather than req
 | **The Beastheart** - Player who holds the Beastheart controls enemies in encounters and ensures encounters are deadly and brilliant. This particular role is best held by a player who has experience with a game like D&D or Magic the Gathering as it requires a deeper understanding of rules, mechanics, and how cards might interact. | <img src="https://cdn.legendfall.com/cardImages/final/300dpi/mastergear-beastheart.jpg" width="100%" alt="Beastheart Card">                                                                                                 |
 | **The Titanback** - The Titanback is the quartermaster and tactician for the team, they manage any treasure, XP, equipment, and manage a variety of party resources and needs. This role belongs to your most organized player, the kind of person who takes notes and likes to put everything in its right place.                  | <img src="https://cdn.legendfall.com/cardImages/final/300dpi/mastergear-titanback.jpg" width="100%" alt="Titanback Card">                                                                                                 |
 
+# Character Creation & Setup
 
+Each player turns their deck face up, revealing their Ancestry card. Each player takes turns revealing who they are (e.g., “I’m a Mettlebound”).
 
-## Character Creation
+Set the Ancestry card in front of you and reveal the next two cards on top of the deck in the same way. These are your Background and Trait cards. Collectively these three cards are called your Roots.
 
-Your GM provides you with a single pack of cards called an Origin Pack. This gives you an assortment of cards that lay the foundation for a character. It’s everything you need to play. As you look through your pack, look for cards labeled: Ancestry, Background, and Trait. Let the other players know what you got (e.g., “I’ve got a Ork Mastermind Smuggler”). Don't worry about trying to understand what these cards do at this stage, you will learn that later. You can keep exactly the cards you open or trade cards with other players.
+Next, have everyone look in their deck for their Character Card, it has a space for your character’s name and bubbles to fill in. Set this card next to your roots.
+
+Your Roots have small colored symbols in the bottom right corner. Look for the matching symbols on your character Character Card. For each matching symbol, fill in one bubble on your Character Card. These are called Skill Ranks. **You will fill in a total of four bubbles.** Ignore the white circle with the number in it. You’ll find a Sharpie in the box labeled “Dice”.
+
+In the example images, you can see that being a Leyfal grants you a skill rank in Wild and Sense.
+
+<img src="https://cdn.legendfall.com/website/example-starters-skill-card.jpg" width="50%" alt="Skill Card Example">  
+
+## Pick Your Token & Name Your Character
+Look in your stack of cards for a thick card with six character portraits, choose the one you like the most and pop it out. This is you! Show it to the other players so they know what you look like. Set the other tokens aside, you won’t need them. Now that you know what you look like, give your character a name. Be creative. Choose something that sounds epic and heroic to you.
+
+## Setting Up Your Play Area
+There are just a few cards that start “in play” (face up in front of you).
+
+* Remove the two instruction cards from your deck and set them aside for reference.
+* Your Character Card and your Ancestry card start in play, you should already have them in front of you; your other two Roots cards are put back into your deck, face down.
+Weapon and Armor cards start the game in play. Everyone starts with two weapons: one for close combat (melee), and another for long-distance combat (ranged). Put the Ravenhand Glove equipment card underneath your Ancestry Card; the Ravenhand won’t be used in this first encounter.
+* All other cards are placed face-down in your deck. Your deck should have ten cards. Shuffle it.
+* Each player needs two twenty-sided dice (d20). 
+  * Choose one die to be your health (HP)—all players start with 10 HP. Set the die to 10. 
+  * The other die will be used to roll your attacks and abilities.
+
+* Each player should have two six-sided dice; these will be used to count things like the number of times you have used your Ancestry card.
+Your play area should look like the image below:
+![Play Area Setup](https://images.squarespace-cdn.com/content/v1/6490ff456dbdd067ee3af25a/78f46b68-5116-4a2e-a154-a5c563a2fbc9/example-setup.jpg)
 
 ## Your First Encounter
 Put your Weapons, Armor, and Ancestry cards face up on the table (“in play”). The rest of the cards are your deck; they start face down. You will draw from these each turn.
+
 
 ### Your First Turn
 Not sure what to do your first turn? Moving and attacking an enemy is a great place to start:
@@ -55,56 +109,42 @@ When you run out of cards, your character is exhausted. You can still fight, but
 
 ### Resting After the Encounter
 
-Everything stays in play when the encounter ends, the battle might continue. To get your cards back your party needs to rest for 1 hour. When you do, shuffle all cards into your deck and reset any counters on yoru cards.
+Everything stays in play when the encounter ends, the battle might continue. To get your cards back your party needs to rest for 1 hour. When you do, shuffle all cards into your deck and reset any counters on your cards.
+
+
 
 # Leveling Up
+Leveling up is about growing your character, gaining new abilities, and becoming a better teammate. Each time you gain a level, follow the rules on the Leveling Up card included in your origin pack. 
 
-Leveling up is about growing your character, gaining new abilities, and becoming a better teammate. Each time you gain a level you add new cards to your deck via **Class Packs**. When you reach the 3rd level, you can optimize your character further by removing some of the basic starting cards from your deck.
+## Class Training
+When you reach 1st level, you will choose your first class. You can begin multi-classing at 3rd Level:
+- **Rogue** - Melee-focused, you make big strikes and then fade into the shadows, sacrificing your lifeforce to do so. You are vengeance incarnate.
+- **Warden** - Ranged-focused, with powerful ranged weapon strikes, nature magic, healing, and animal companions. You were chosen by the wild to fight.
+- **Vitalist** - Melee-focused, hand and foot strike your enemies and heal allies all in a single stride. You strive to bring balance to all things.
+- **Mage** - Ranged-magic focused, bending the rules of reality, controlling minds, and channeling multi-enemy blasts. Your calling is power.
+- **Marshal** - Melee-focused, you are the center of combat, through taunts and defence you live to keep others alive. You're a rebel who leads from the front.
 
-### Gaining Experience
+## Adding Ranks to Skills
+When you reach 1st level, you will begin adding ranks into your class skills. When you do this, you must choose three different skills and add one rank to each--do not add multiple ranks to the same skill.
 
-When you complete an encounter, your GM will give you one or more experience cards. You can spend your experience between encounters to level up by simply handing experience cards totaling to the experience cost required for your next level to your GM. See the Leveling Table below.
+## HP & Max Build
+As you gain levels and explore the world you'll discover powerful talents and abilities. Build points measure your characters power, balancing it along with your allies. Look in the bottom right corner of your cards and you'll see a number in a white circle, this is the cost of your card in build points. Count the build points on all your cards, they may not exceed your current HP / Build Point Max for your level.
 
-## How to Level Up
 
-Each time your character levels up, you may open a new Class Pack of your choice. You may choose any class pack at each level, changing your class at anytime, although new players should generally stick to one class. The table below outlines the leveling progression and some Level Abilities gained at each level. For example, at 2nd level you will start to draw cards at the beginning of combat.
+| Level  | XP Cost | GAINED                             | HP & MAX BUILD |
+|--------|---------|------------------------------------|----------------|
+| Origin | 0       | Origin Pack                        | 10             |
+| 1st    | 300     | Class Training, add one rank to three skills | 10 |
+| 2nd    | 400     | Draw 2 first round                 | 12             |
+| 3rd    | 600     | Class Training, add one rank to three skills | 14 |
+| 4th    | 700     | Draw 3 first round                 | 14             |
+| 5th    | 800     | Class Training, add one rank to three skills | 15 |
+| 6th    | 800     | 1 Accessory starts in Play         | 16             |
+| 7th    | 1000    | Class Training, add one rank to three skills | 17 |
+| 8th    | 1000    | 2 Accessories start in Play        | 18             |
+| 9th    | 1000    | Class Training, add one rank to three skills | 19 |
+| 10th   | 1500    | Draw 4 first round                 | 20             |
 
-## Class Packs
-
-Each time you level up you open a new Class Pack and add it to your deck (5 new ability cards). Legendfall isn't made to force you to buy hundreds of packs. GMs are encouraged to make their own resealable packs as they recycle old characters for future play.
-
-### Choosing Your Class
- Each class suits a unique style of play. Choose a class that aligns with how you want to play.
-
-* **Rogue** (Fighter / Ninja) - Melee focused, Rogues aim to make big strikes and then fade into the shadows. While they have a talent for avoiding damage, their abilities come at a great cost to their own life force. Rogues flank their opponents and make aggressive assaults, depending on invisibility, their defensive abilities, and an occasional heal from an ally to stay alive.
-* **Warden** (Ranger / Druid) - Ranged focused, Wardens rely on arrows, nature magic, and animal companions. Rangers attack with devastating ranged attacks while keeping their allies alive with emergency healing.
-* **Vitalist** (Monk / Cleric) - Melee focused, Vitalists are masters of life, death, and melee fist and foot combat. Vitalists manipulate the life energies of those around them with their strikes, both damaging enemies and healing allies in the same stride.
-* **Mage** (Wizard / Warlock) - Ranged magic focused, mages leverage their mastery of current to manipulate the world around them. Energy blasts, mind control, and powerful artifacts are their bread and butter.
-* **Marshal** (Paladin / Bard) - Melee focused, Marshals are specialists in protecting their allies and manipulating crowds of enemies. When needed, Marshals are willing to sacrifice themselves to keep the heat off their allies. Marshals have a talent for defense that keeps them and others alive.
-
-### Build Points
-As you gain levels and explore the world you'll discover powerful talents and abilities. Build points measure your characters power, balancing it along with your allies. Look in the bottom right corner of your cards and you'll see a number circled, this is the cost of your card in build points. Count the build points on all your cards, they may not exceed your current HP / Build Point Max for your level.
-
-<div class='classTable wide'>
-
-##### Leveling Table
-| Level | XP Cost | Gained | Base HP / Build Point Max | Equipment Tier
-|:---:|:---:|:---|:---:|:---:|:---:|
-| Origin | 0 | Origin Pack, Draw 1 (End-of-turn) | 10 | Mundane
-| 1st | 300 | Class Training, add one rank to three skills  | 10 | Mundane 
-| 2nd | 400 | Draw 2 first round | 12 | Common
-| 3rd | 600 | Class Training, add one rank to three skills | 14 | Common
-| 4th | 700 | Draw 3 first round | 14 | Uncommon
-| 5th | 800 | Class Training, add one rank to three skills | 15 | Uncommon
-| 6th | 800 | 1 Accessory starts in Play | 16 | Uncommon |
-| 7th | 1000 | Class Training, add one rank to three skills | 17 | Rare
-| 8th | 1000 | 2 Accessories start in Play | 18 | Rare
-| 9th | 1000 | Class Training, add one rank to three skills | 19 | Legendary
-| 10th | 1500 | Draw 4 first round | 20 | Legendary
-
-</div>
-
-\pagebreakNum
 
 # Actions
 
@@ -153,7 +193,7 @@ Players with weapons in play may always take a standard action to use their weap
 ### Responding to Attacks
 If an immediate action is used that makes an attack miss or otherwise impossible (e.g, the target is no longer in line of site), the attack automatically fails including any secondary effects against that target. If a player or enemy is killed in the middle of an attack, even if damage dice had already been rolled, damage and any other secondary effects are canceled.
 
-\pagebreakNum
+
 
 ## Movement & Terrain
 A player may move a number of squares as is marked on their armor. A character wearing no armor may move up to 7 squares. There are a few basic rules for how players move:
@@ -215,7 +255,6 @@ When you or an enemy is partially blocked by an object, another enemy, or an all
 
 For those familiar with the pen and paper role-playing terms “half-cover” and “three-quarters cover”, you can translate as follows: there is no penalty for half-cover and there is a 50% miss chance for three-quarters cover.
 
-\pagebreakNum
 
 # Abilities 2.0
 Skills often times represent the techniques your character will use to solve problems or get themselevs out of whatever sticky binds you find youself in.
@@ -242,73 +281,9 @@ Skills often times represent the techniques your character will use to solve pro
 
 ## Influence
 
-<div class='classTable wide'>
 
-##### Example Skill Combinations
-| Actions | Experience Cost | Level Abilities 
-|:---:|:---:|:---|:---:|:---:|:---:|
-| Stealth, Hide, Move Silently | Fitness & Cunning | Trying to deceive using your body 
-| Resisting Poison | Fitness & Grit | Resisting pain or sickness
-| Pickpocketing | Cunning 2x | Class Pack, Customize Your Deck 
-| 4th | 600 | Class Pack, Draw 3 first turn of combat
-| 5th | 700 | Class Pack, Draw 2 (End-of-turn) 
-| 6th | 800 | Class Pack, Draw 4 first turn of combat 
-| 7th | 800 | Class Pack, 1 Accessory Starts in Play 
-| 8th | 1000 | Class Pack, Draw 5 first turn of combat 
-| 9th | 1000 | Class Pack, 2 Accessories Start in Play 
-| 10th | 1000 | Class Pack, Draw 6 first turn of combat 
-
-</div>
-
-\pagebreakNum
-
-# Skills 1.0
-
-Every task that a character or monster might attempt in the game is covered by skills. This section explains in more detail what those skills are and the ways they are used in the game. These skills are reproduced under the OGL, with minor modifications.
-
-Each time you gain a level you will get a "Skill Growth" card that you can trade to gain ranks in skills. Each rank you gain in a skill gives you a +2 bonus. When you roll a skill check, roll 1d20 and add your total skill bonus.
-
-## Skill Descriptions
-
-**_Strength_** Your Brute check covers situations in which brute force is required. For example, force open a stuck, locked, or barred door, break free of bonds, push through a tunnel that is too small, hang on to a wagon while being dragged behind it, tip over a statue, keep a boulder from rolling
-
-**_Athletics._** Your Athletics check covers difficult situations you encounter while climbing, jumping, or swimming. For example, climbing a slippery cliff, clinging to a wall when someone is trying to knock you off, jumping an unusually long distance, swimming in treacherous waters or staying afloat when being pulled down.
-
-**_Acrobatics._** Your Acrobatics check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck. The GM might also call for an Acrobatics check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
-
-**_Skilled Hands._** Whenever you attempt an act of legerdemain or manual trickery, such as: planting something on someone else, concealing an object on your person, lifting a coin purse off another person, control a heavily laden cart on a steep descent, pick a lock, disable a trap, tie up a prisoner, wriggle free of bonds, play a stringed instrument, craft a small or detailed object.
-
-**_Stealth._** Make a Stealth check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard. Until you are discovered or you stop hiding, that check’s total is contested by the Perception check of any creature that actively searches for signs of your presence.
-
-**_Arcana._** Your Arcana check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
-
-**_History._** Your History check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
-
-**_Investigation._** When you look around for clues and make deductions based on those clues, you make an Investigation check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Investigation check.
-
-**_Nature._** Your Nature check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
-
-**_Religion._** Your Religion check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
-
-**_Animal Handling._** When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the GM might call for an Animal Handling check. You also make an Animal Handling check to control your mount when you attempt a risky maneuver.
-
-**_Insight._** Your Insight check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
-
-**_Medicine._** A Medicine check can help you diagnose rare illnesses and diseases, both physical and magical in nature. Swift, once-per-combat: heal an adjacent ally a number of HP equal to your ranks in Medicine.
-
-**_Perception._** Your Perception check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door or spot thugs hiding in the shadows of an alley.
-
-**_Survival._** The GM might ask you to make a Survival check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
-
-**_Deception._** Your Deception check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, forge a document, or maintain a straight face while telling a blatant lie.
-
-**_Intimidation._** When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make an Intimidation check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
-
-**_Performance._** Your Performance check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
-
-**_Persuasion._** When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Persuasion check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
-
-\pagebreakNum
+# Skills 2.0
+Lorium Ipsum
 
 # Items & Equipment
 
@@ -334,4 +309,4 @@ Part of the fun of Legendfall is getting into character--seeing the world throug
 
 <img src='https://legendfall.com/tts/ork.png' style='position:absolute; bottom:-60px; right:-10px; width:490px' />
 
-\pagebreakNum
+
