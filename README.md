@@ -37,6 +37,7 @@
   - [Tilting & Refreshing](#tilting--refreshing)
 - [Roleplaying](#roleplaying)
   - [Metagaming](#metagaming)
+- [Death](#death)
 
 # Introduction
 Legendfall is a strategy tabletop role-playing game about adventuring through a world of legends and villains. It’s about co-creating a universe through the journeys and decisions your characters make. When you open your first Legendfall Origin pack, your character is born: you could be an altruistic elven swashbuckler, an impulsive dwarven gladiator, an empathic halfling smuggler and many more--there are over 21,000 starting character combinations. As a strategy game, players have the ability to craft a unique character, with a unique set of abilities, and tweak and adjust that character as they grow. As a roleplaying game, players walk the journey of a hero in a harsh world filled with corruption and redemption.
@@ -112,6 +113,9 @@ When you’ve completed your turn say “Pass Turn” and then draw one card. Ke
 
 ## Defending Against Attacks
 Players have a few ways to deal with incoming damage. First, if your armor has a defense value (e.g., Defence 1) then  subtract that amount of damage from a hit. Second, every player has an equipment card that can be used “once” to prevent the damage of a single attack. This is a Free Immediate action, what that means is that it can be used even if the player has already used an Immediate Action this turn.
+
+## Taking Damage
+When players first create their characters they start with 10 HP. When you take damage reduce this HP by a number equal to the final damage received. Lower the number on your twenty sided die by that ammount. When your character reaches 0 HP your Ravenhand engages, pulling your body out of this world to The Roost where you will be forced to make the fatal choice. See [Death](#death).
 
 ## Your Next Turns
 In addition to moving a number of squares equal to the "Move" value on your armor, you can take other actions every turn:
@@ -314,6 +318,37 @@ If a player has equipment in their hand and already has equipment occupying that
 
 ## Tilting & Refreshing 
 Some items and equipment have the ability to “tilt”. When you tilt an item you rotate it 90 degrees to show that it’s special ability has been expended. Tilt abilities may only be used once-per-encounter, unless they are “refreshed” by another ability; for example, Second Wind states “Refresh all items you control.”
+
+# Death
+When a Raven dies they are faced with "The Fatal Choice". If you corruption grows too strong… if it consumes you...you may become one of the Fallen. A twisted versions of yourself, controlled by the darkness within. Your Ravensglove will grow into you… consume you… replace you. Ravens close to the brink have another choice. Instead of surrendering to corruption, they can choose a Blaze of Glory. When a Raven goes out in a blaze, they die the true death, their existence reduced to the essence held within the Ravenglove. Their physical form is gone, but their memories, their experiences...some semblance of who they were remains in the glove. Burning up is not the end, not entirely. These gloves are passed on, to new Ravens. This way, those who have fallen serve as guides, their experience shaping the paths of those that follow.
+
+## Accepting Corruption
+Anytime a player accepts a corruption card (or is forced to take one), if their corruption is 3 or more, they must immediately roll 1d20 for a chance of becoming Fallen. If a player is forced to take a corruption card outside of combat (e.g., at the end of combat via Obsidian Spider), they may not choose a Blaze of Glory, roll immediately and your fate will be told.
+
+- **1-2 Corruption**: No die roll, your safe
+- **3 Corruption**: If you roll a 3 or less, you have become Fallen. 
+- **4+ Corruption**: If you roll a 10 or less, you have become Fallen. 
+
+## Returning With Corruption (Lucky you)
+The world is bathed in a flash of purple light as a vortex of wind and smoke reassembles the fallen hero. If the player rolled well and did not suffer the fall, they are returned with full health and may act on their next turn. They will be placed in the same square where they died, their original body vaporized. They may, optionally, choose to place themselves in a different square nearby. Any corruption card gained starts out in the player’s hand or in play, the player’s choice.
+
+## Blaze of Glory
+Before a player accepts a corruption card, they may instead choose to go out in a Blaze of Glory. If a player dies in the middle of combat and chooses to return in a Blaze of Glory, remove all corruption cards from their deck. They may play any card in their deck for the remainder of the combat and gain +10 on all d20 die rolls for the remainder of the combat. The player’s HP becomes 20. If all HP is lost they die the final death. At the end of the encounter, reguardless of their HP, they die the final death.
+
+The Birth of a New Raven After a Blaze of Glory
+If a player goes out in a Blaze of Glory, some piece of them lives on in their Ravenglove. Fragments of memories live on from the previous lives of the owners of that glove. All class abilities, items, and equipment carry forward. The player must, however, open a new Origin Character pack gaining new basic abilities, ancestry, background, and traits. Their character level should be set to the average character level for the group. They may choose new classes for their character levels, but may only use the class abilities from their former life if they have taken at least one level in that class. The new character joins at the beginning of the next encounter—a new recruit sent from The Guild.
+
+## Becoming Fallen
+A character who is Fallen may take one last turn in control over themselves before turning to darkness and attacking the other players. If this occurs, the Beastheart or the Storyteller gains control of the fallen character for the remainder of the combat. 
+
+It is very possible that the Fallen character will cause more character deaths… it may even take a character choosing a Blaze of Glory to defeat them.
+
+If a Fallen character is defeated, they are rebuilt days later in the Wiltwoods only to return and fight the players again. Fallen players will forever menace the players in their travels. Their character deck is sealed away entirely intact—no cards may be removed.
+
+The Birth of a New Raven After the Fall
+If a player becomes Fallen, their Ravenglove is lost, along with its memories and knowledge. A player must build a new character from scratch. The player opens a new Origin pack. They will return to the game with their level set to the average for the group. For each level, they will choose a class and the Titanback will present them with three class ability cards (chosen at random) from which they will choose one. 
+
+
 
 # Roleplaying
 Legendfall is a collaborative game. Players get to know each other's characters and strategize. For example, a player might shout, “Elric, let’s flank the big guy.” As a general rule, each character can communicate 5-10 seconds worth of information to other characters during their turn and a few words as a free action outside their turn (e.g., “Let’s do it!”). Before players take actions they should think about how they can best collaborate and say what they need.
