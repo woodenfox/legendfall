@@ -1,17 +1,20 @@
-# Table of Contents
+# Legendfall Core Rulebook
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Mastergear](#mastergear)
 - [Character Creation & Setup](#character-creation--setup)
+  - [Your Starting Skills](#your-starting-skills)
   - [Pick Your Token & Name Your Character](#pick-your-token--name-your-character)
   - [Setting Up Your Play Area](#setting-up-your-play-area)
   - [Your First Encounter](#your-first-encounter)
-  - [Your First Turn](#your-first-turn)
-  - [Defending Against Attacks](#defending-against-attacks)
-  - [Role-playing](#role-playing)
-  - [Your Next Turns](#your-next-turns)
-  - [When you Run Out of Cards](#when-you-run-out-of-cards)
-  - [Resting After the Encounter](#resting-after-the-encounter)
+    - [Moving](#moving)
+    - [Attacking](#attacking)
+    - [Ending Your Turn](#ending-your-turn)
+    - [Defending Against Attacks](#defending-against-attacks)
+    - [Your Next Turns](#your-next-turns)
+    - [When you Run Out of Cards](#when-you-run-out-of-cards)
+    - [Resting After the Encounter](#resting-after-the-encounter)
+    - [Role-playing](#role-playing)
 - [Leveling Up](#leveling-up)
   - [Class Training](#class-training)
   - [Adding Ranks to Skills](#adding-ranks-to-skills)
@@ -20,13 +23,23 @@
   - [Action Types](#action-types)
   - [Attacking](#attacking)
   - [Movement & Terrain](#movement--terrain)
-- [Abilities 2.0](#abilities-20)
-- [Skills 2.0](#skills-20)
+    - [Move, Action, Move](#move-action-move)
+    - [Pushing & Pulling](#pushing--pulling)
+    - [Hazards](#hazards)
+    - [Difficult Terrain](#difficult-terrain)
+    - [Line of Sight and Cover](#line-of-sight-and-cover)
+- [Skills](#skills)
+  - [Testing Skills](#testing-skills)
 - [Items & Equipment](#items--equipment)
+  - [Equipment Starting in Play](#equipment-starting-in-play)
+  - [Items & Equipment Slots](#items--equipment-slots)
+  - [Switching Equipment](#switching-equipment)
+  - [Tilting & Refreshing](#tilting--refreshing)
 - [Roleplaying](#roleplaying)
+  - [Metagaming](#metagaming)
 
 # Introduction
-Legendfall is a strategy tabletop role-playing game about adventuring through a world of legends and villains. It’s about co-creating a universe through the journeys and decisions your characters make. When you open your first Legendfall Origin pack, your character is born.  As a strategy game, players have the ability to craft a unique character, with a unique set of abilities, and tweak and adjust that character as they grow. As a roleplaying game, players walk the journey of a hero in a harsh world filled with corruption and redemption.
+Legendfall is a strategy tabletop role-playing game about adventuring through a world of legends and villains. It’s about co-creating a universe through the journeys and decisions your characters make. When you open your first Legendfall Origin pack, your character is born: you could be an altruistic elven swashbuckler, an impulsive dwarven gladiator, an empathic halfling smuggler and many more--there are over 21,000 starting character combinations. As a strategy game, players have the ability to craft a unique character, with a unique set of abilities, and tweak and adjust that character as they grow. As a roleplaying game, players walk the journey of a hero in a harsh world filled with corruption and redemption.
 
 # Getting Started
 The promise of Legendfall is a game that you can learn by plying rather than requiring a deep knowledge of one or more rulebooks. The game is best started with Encounter 0 (https://www.legendfall.com/encounter-0), this setup encounter will walk you through character creation and bring you into the universe. The first 10 Encounters are designed to give you not only an introduction to the game but also build your map and monster library so that you can create and improvose your own encounters.
@@ -41,16 +54,23 @@ Legendfall is brought to life by giving players special roles. When a player tak
 | **The Titanback** - The Titanback is the quartermaster and tactician for the team, they manage any treasure, XP, equipment, and manage a variety of party resources and needs. This role belongs to your most organized player, the kind of person who takes notes and likes to put everything in its right place.                  | <img src="https://cdn.legendfall.com/cardImages/final/300dpi/mastergear-titanback.jpg" width="100%" alt="Titanback Card">                                                                                                 |
 
 # Character Creation & Setup
+Character creation in Legendfall is very simple. Open an Origin pack and you have a fully ready to play character. Each Orgin pack includes 18 unique cards. :
 
-Each player turns their deck face up, revealing their Ancestry card. Each player takes turns revealing who they are (e.g., “I’m a Mettlebound”).
+* 1x Ancestry Card*
+* 1x Trait Card*
+* 1x Background Card*
+* 1x Character Card (A.k.a., Skill Card)
+* 2x Instruction Cards
+* 1x Ranged Weapon Card
+* 1x Melee Weapon Card
+* 1x Armor Card
+* 6x Basic Skill Cards
+* 1x Second Wind
+* 1x Inspire
+* 1x Ravenshand
 
-Set the Ancestry card in front of you and reveal the next two cards on top of the deck in the same way. These are your Background and Trait cards. Collectively these three cards are called your Roots.
-
-Next, have everyone look in their deck for their Character Card, it has a space for your character’s name and bubbles to fill in. Set this card next to your roots.
-
-Your Roots have small colored symbols in the bottom right corner. Look for the matching symbols on your character Character Card. For each matching symbol, fill in one bubble on your Character Card. These are called Skill Ranks. **You will fill in a total of four bubbles.** Ignore the white circle with the number in it. You’ll find a Sharpie in the box labeled “Dice”.
-
-In the example images, you can see that being a Leyfal grants you a skill rank in Wild and Sense.
+## Your Starting Skills
+Your Ancestry, Trait, and Background Cards are known as your "Roots". Look in the bottom right corner of these cards for symbols. You'll find matching symbols on your Character Card. For each matching symbol, fill in one bubble on your Character Card. These are called Skill Ranks. **You will fill in a total of four bubbles.** For now, you should ignore the white circle with a number in it.
 
 <img src="https://cdn.legendfall.com/website/example-starters-skill-card.jpg" width="50%" alt="Skill Card Example">  
 
@@ -72,28 +92,36 @@ Weapon and Armor cards start the game in play. Everyone starts with two weapons:
 Your play area should look like the image below:
 ![Play Area Setup](https://images.squarespace-cdn.com/content/v1/6490ff456dbdd067ee3af25a/78f46b68-5116-4a2e-a154-a5c563a2fbc9/example-setup.jpg)
 
-## Your First Encounter
-Put your Weapons, Armor, and Ancestry cards face up on the table (“in play”). The rest of the cards are your deck; they start face down. You will draw from these each turn.
+![black ink, page section break, white background --ar 5:1 --v 6.0](https://github.com/woodenfox/legendfall/assets/4211419/cdfa4471-4b89-480e-a59b-ecd76e8eb37d)
 
+# Your First Encounter
+Legendfall is designed to be easy to learn and progressive, in the same way that the basics of chess can be learned in just a few minutes, new players in Legendfall can make a meaninful impact just by knowing a few basic rules. Over time, you'll learn better and more strategic ways to play that leverage the unique strengths of your character.
 
-### Your First Turn
-Not sure what to do your first turn? Moving and attacking an enemy is a great place to start:
+## Your First Turn
+Let's get started with the basics: moving and attacking.
 
-1. Look at your armor to see how many squares you can move. Move towards an enemy counting your squares of movement. Moving in any direction (including diagonal) counts as one square of movement.
-2. Choose one of your weapons and attack by following the rules on the card. Legendfall is played almost exclusively with 20 sided dice, henceforth referred to as a d20. Weapon attacks always require you to roll a d20. When you see a label like "10+" this means to follow the directions on the card if you rolled a 10 or higher. Your attack will always hit unless something is done in response to prevent it.
-3. At the end of your turn, draw 1 card from your deck. Say "I'm drawing my card" or "Pass turn" to signal it is the next players turn.
-<br>
+### Moving
+Look at your armor to see how many squares you can move, in the very middle of the card you should see something like “Move 6”, you can move in any direction including diagonal (there is no difference in movement cost). Use your movement to move towards an enemy. You can use any remaining movement to move away form an enemy after you attack.
 
-### Defending Against Attacks
-When you're under attack, your armor comes in handy. Read your armor card. If there is a Defense value, reduce damage dealt to you by that amount. A character only has one defense at any given time. If an ability grants you a higher defense than your current defense, defer to the highest value. You can't wear more than one set of armor.
+### Attacking
+Choose one of your weapons and attack by following the rules on the card. Legendfall is played almost exclusively with 20 sided dice, henceforth referred to as a d20. Weapon attacks always require you to roll a d20. When you see a label like "10+" this means to follow the directions on the card if you rolled a 10 or higher. Your attack will always hit unless something is done in response to prevent it.
+<img src="https://cdn.legendfall.com/cardImages/final/300dpi/equipment-meq-shortsword.jpg" width="50%" alt="Shortsword"> 
 
-### Role-playing
-Legendfall is a collaborative role-playing game. Do your best to think from your characters perspective as you fight alongside your party. A player might shout, “Lerik, let’s get the big guy together.” If someone jumps in to help you, say thank you and remember to use their character name. Talking "in character" takes time to learn. You don't have to talk using your characters voice in order to roleplay; you can describe what your character is feeling and doing: "Kirin looks with vengeful eyes at the big wolf who just took a bite out of Lerik."
+### Ending Your Turn
+When you’ve completed your turn say “Pass Turn” and then draw one card. Keep this drawn card in your hand. If you are lucky you might draw an Immediate action. These cards may be used during ally and enemy turns. You may interrupt others’ actions by saying something like: “Before they move..” or “Before that 6 damage is dealt”.
 
-### Your Next Turns
-In addition to moving a number of squares equal to the "Move" value on your armor, you can take three other actions in a round: one **standard action** (e.g., use your weapon), one **swift action**, and one **immediate action**. Immediate actions can be used anytime, even during your opponents turn; you can say: “Before that happens, I use an immediate action.” (A deeper exploration can be found in Actions, page 3).
+## Defending Against Attacks
+Players have a few ways to deal with incoming damage. First, if your armor has a defense value (e.g., Defence 1) then  subtract that amount of damage from a hit. Second, every player has an equipment card that can be used “once” to prevent the damage of a single attack. This is a Free Immediate action, what that means is that it can be used even if the player has already used an Immediate Action this turn.
 
-The vast majority of the rules in Legendfall are baked into each characters cards. If your confused or unsure at anytime about what something means, ask your GM.
+## Your Next Turns
+In addition to moving a number of squares equal to the "Move" value on your armor, you can take other actions every turn:
+
+* You may take one **standard action** (e.g., use your weapon)
+* You may take one **swift action**--check your Ancestry card to see if you have a swift action. If you do, try to use it every turn.
+* You may take one **immediate action**. Immediate actions can be used anytime, even during your opponents turn; you can say: “Before that happens, I use an immediate action.” (A deeper exploration can be found in Actions, page 3).
+* You may take unlimited "free" actions. If an action is labled as free, it dosn't count against your limit for the round.
+
+The vast majority of the rules in Legendfall are baked into each characters cards. If your not sure how a card words, ask the other players. If you're really stumped on a card ruling, put it to a vote.
 
 On your next turns, here are a few things to try: 
 
@@ -104,14 +132,16 @@ On your next turns, here are a few things to try:
 
 Your limit of one standard, swift, and immediate action resets at the beginning of your turn. If you've used all your actions, you'll need to wait a full round for them to reset.
 
-### When you Run Out of Cards
+## When you Run Out of Cards
 When you run out of cards, your character is exhausted. You can still fight, but won't have any cards to draw.
 
-### Resting After the Encounter
-
+## Resting After the Encounter
 Everything stays in play when the encounter ends, the battle might continue. To get your cards back your party needs to rest for 1 hour. When you do, shuffle all cards into your deck and reset any counters on your cards.
 
+## Role-playing
+Legendfall is a collaborative role-playing game. Do your best to think from your characters perspective as you fight alongside your party. A player might shout, “Lerik, let’s get the big guy together.” If someone jumps in to help you, say thank you and remember to use their character name. Talking "in character" takes time to learn. You don't have to talk using your characters voice in order to roleplay; you can describe what your character is feeling and doing: "Kirin looks with vengeful eyes at the big wolf who just took a bite out of Lerik."
 
+![black ink, page section break, white background --ar 5:1 --v 6.0](https://github.com/woodenfox/legendfall/assets/4211419/c18c9379-94c9-4425-aa2e-29c4aa8ce5a5)
 
 # Leveling Up
 Leveling up is about growing your character, gaining new abilities, and becoming a better teammate. Each time you gain a level, follow the rules on the Leveling Up card included in your origin pack. 
@@ -145,10 +175,11 @@ As you gain levels and explore the world you'll discover powerful talents and ab
 | 9th    | 1000    | Class Training, add one rank to three skills | 19 |
 | 10th   | 1500    | Draw 4 first round                 | 20             |
 
+![black ink, page section break, white background --ar 5:1 --v 6.0](https://github.com/woodenfox/legendfall/assets/4211419/cdfa4471-4b89-480e-a59b-ecd76e8eb37d)
 
 # Actions
 
-As you begin to become more serious about Legendfall, the ability to optimzie your actions each turn becomes increasingly important. This section aims to take you a layer deepr into the nuances of each of the action types and how they work in a variety of situations. Don't feel overwhelmed as you read this section, many of these rules are advanced and will be brought up by your GM exclusively when their needed later in the game.
+As you begin to become more serious about Legendfall, the ability to optimize your actions each turn becomes increasingly important. This section aims to take you a layer deeper into the nuances of each of the action types and how they work in a variety of situations. Don't feel overwhelmed as you read this section, many of these rules only apply as you work to make your character the best they can be, you can be impactful and effective even just making basic attacks each round.
 
 ## Action Types
 
@@ -170,33 +201,34 @@ In Legendfall all attacks are assumed to hit unless the character you are attack
 3. **Pause for reactions** Many immediate actions can manipulate or even prevent damage after it has been rolled.
 4. **Resolve damage and defence.** Subtract defence from the attack damage and apply any other effects.
 
-<div style='margin-top:20px'></div>
-
-> * Zoe: “I’m attacking the dark knight who just hurt Dina, I’ll use my short sword.”
+> * Zoe: “I’m attacking the dark knight who just hurt Dina, I’ll use my shortsword.”
 > * Dina: “That guy is going down! Before Zoe attacks I use an immediate action to summon a Giant Bird behind the dark knight--this gives Zoe an additional 1 damage on her attack.”
-> * Zoe: “By the might of the eagle I banish thee! I rolled a 6, plus one for the eagle--that’s 7 damage. Woot!”
-> * GM: “The dark knight is dealt a fearsome blow, his armor soaks 3 of your damage, but he takes 4 and falls to his knees blood gushing from his neck--he’s dead.”
-
-<div style='margin-top:30px'></div>
+> * Zoe: “By the might of the eagle I banish thee! I rolled a 12, thats 6 damage plus one for the eagle--that’s 7 damage. Woot!”
+> * Beastheart: “The dark knight is dealt a fearsome blow, his armor soaks 3 of your damage, but he takes 4 and falls to his knees blood gushing from his neck--he’s dead.”
 
 ### Weapons & Ability Cards
 Players with weapons in play may always take a standard action to use their weapon. Many standard actions in your deck will include phrases like this “Weapon damage +1”. This means that your ability is executed using your weapon. In these circumstances, you should follow the rules of both your weapon card and the card you are playing.
 
-<div style='margin-top:20px'></div>
+> * Zoe: “I’m going to use my Sneak Attack on the goblin, attacking with my short sword”
+> * Beastheart: “Go for it."
+> * Zoe: “Sneak Attack lets me make a weapon attack with bonus damage equal to my cunning. I rolled a 3 on my attack so my dagger only deals 1 damage, ignoring defence. With my 3 ranks in cunning that is still 4 damage. Not bad!”
 
->* Zoe: “I’m going to use my Sneak Attack on the goblin, attacking with my short sword”
-> * GM: “Go for it."
->* Zoe: “Sneak Attack lets me deal Weapon Damage + 2. My shortsword deals 1d6 damage and an additional 2 damage if I roll a 1. I just rolled a 1. So my weapon deals 3 damage and I get an extra plus two for my sneak attack. Hey, that's 5 damage--not bad!”
+### Refocusing & Responses to Attacks
+If you are attacking and an enemy takes an action that would make your attack impossible (e.g., jumps back out of range or line of sight), your attack fails. You may, however use an immediate action to avoid loosing your standard action for the round, this is called Refocusing. After Refocusing, an attacker may choose to use any remaining movement they have and try again.
 
-<div style='margin-top:30px'></div>
+> * Katra: "I just rolled a 20, thats 8 damage agains the Ice Toad, take it buddy!"
+> * Beastmaster: "As you begin to swing, the Void Toad takes an immediate action to leap back 3 squares over the river."
+> * Katra: "Darn it, I don't want to loose my standard action for the round, I'll use my immediate to refocus. I'm out of movement, but I'll use my swift action Hurdle to close the gap. You're not getting away from me. I'll make another attack."
 
-### Responding to Attacks
-If an immediate action is used that makes an attack miss or otherwise impossible (e.g, the target is no longer in line of site), the attack automatically fails including any secondary effects against that target. If a player or enemy is killed in the middle of an attack, even if damage dice had already been rolled, damage and any other secondary effects are canceled.
+### What Happens When an Immediate Action Defeats an Enemey
+If an immediate action is used in response to an enemy attack and the enemy is defeated as a part of that attack (e.g., Second Wind), the enemies attack, damage, and any related effects are prevented. Immediate actions can be used in response to an enemy even after damage has been announced.
 
+> * Beastmaster: "The Klikrog lands a fearsom blow on you for 9 damage."
+> * Garrick: "Before he can complete his strike, I come up from uderneith using Second Wind to make a weapon attack. I rolled an 18, thats 6 damage. Is that enough to kill him?"
+> * Beastmaster: "Just as he was about to strike a home run with your head you duck to the side and drive a spear into his chest, he's dead."
 
-
-## Movement & Terrain
-A player may move a number of squares as is marked on their armor. A character wearing no armor may move up to 7 squares. There are a few basic rules for how players move:
+# Movement & Terrain
+Teh Wayfinder is the master of movment, in any situation where there is ambiguity around the map or terrain, defer to the Wayfinder. Players movement is set based on their armor. A character wearing no armor may move up to 7 squares. There are a few basic rules for how players move:
 
 * A character may use a standard action to double their movement for the round
 * Characters may not move through enemy squares
@@ -204,45 +236,35 @@ A player may move a number of squares as is marked on their armor. A character w
 * Players may not end their turn in the same square with an ally or enemy 
 * Moving both horizontally and diagnally costs 1 movement.
 
-### Move, Action, Move
+## Move, Action, Move
 Players may take other actions between using their movement for the round. For example, a player might move to attack, then move around a corner to hide. Player or enemy movement may be interrupted mid-move by immediate actions. When this occurs, the remainder of that player or enemy movement may be spent after the effect is resolved. 
-
-<div style='margin-top:20px'></div>
 
 > * GM: “The wolves move forward to attack you”
 > * Zoe: “When they reach this spot, I cast Ice Wall as an immediate action to block them.”
 > * GM: “The wolves are startled as huge sheets of ice slide up blocking their path, they howl and begin to circle around the ice blocks to find you, but you are too far away to attack.”
 
-<div style='margin-top:30px'></div>
-
-### Pushing & Pulling
+## Pushing & Pulling
 Many abilities specify effects like "Push 1" or "Pull 2". These effects allow you to force an enemy (or an allie) to move. The number represents the number of squares of movement they are pushed or pulled.
 
 **Push** - A push effect must always move the target away from the source of the effect. At each step of the movement, the target must be one square further away from you--e.g., you can’t push an adjacent enemy into a different adjacent square.
-
 **Pull** - A pull effect must always move the target towards the source of the effect. At each step of the movement, the target must be one square closer--e.g., you can’t pull an adjacent enemy into a different adjacent square.
 
 If a character is pushed or pulled through or into a Hazard, resolve that Hazzard immediately as they enter the square.
 
-### Hazards
+## Hazards
 Hazards represent traps, fire, lava, or any other danger within the environment that a payer or enemy might find themselves moving into or through. When Hazards are triggered, this typically results in damage to the player. Hazards are triggered in two ways:
 
 * When a player moves into a Hazard square
 * When a player ends their turn in an ongoing Hazard square (e.g., lava)
 
-<div style='margin-top:30px'></div>
-
-### Difficult Terrain
+## Difficult Terrain
 Boulders, mud, ice, are just a few of the types of difficult terrain that may slow down players. Moving into a difficult terrain square costs no additional movement, while moving through or leaving difficult terrain costs one additional movement. For example, climbing into a river would be a normal single square of movement, wading through he water would cost two squares, and then climbing out would cost two squares for a total of five squares of movement. 
 
-#### Swimming
+### Swimming
 Swimming follows the standard rules for difficult terrain costing one movement to enter the water, and two movement to move through or exit the water.
 
-#### Climbing
-If a character is attempting to climb, imagine if the wall itself is a square of difficult terrain. It takes one square of movement to move into this vertical square, and two squares of movement to move out of this square up on top of the wall. A player must end their turn standing flat on the surface they intend to climb or they fall.
-
-### Falling
-If a character is standing on elevated terrain and falls more than one square, they take 1d6 damage, ignoring defense, for each square they fall beyond the first. For example, a character falling from three blocks up would take 2d6 damage. A player may roll an Athetlics or Acrobatics skill check to negate this damage (10 or higher negates 1d6, 15 or higher negates 2d6).
+### Climbing & Falling
+The rules effects for Climbing and Falling depend on the encounter you are playing. See the encounter rules or defer to the Wayfinder for clarity.
 
 ## Line of Sight and Cover
 Obstacles on the battlefield have a direct impact on your ability to target and hit enemies. Both players and enemies can “take cover” to avoid attacks and reduce the likelihood of taking damage. 
@@ -255,35 +277,29 @@ When you or an enemy is partially blocked by an object, another enemy, or an all
 
 For those familiar with the pen and paper role-playing terms “half-cover” and “three-quarters cover”, you can translate as follows: there is no penalty for half-cover and there is a 50% miss chance for three-quarters cover.
 
+# Skills 
+Every task that a character or monster might attempt in the game is covered by skills. This section explains in more detail what those skills are and the ways they are used in the game. These skills are reproduced under the OGL, with minor modifications. Each skill has a rank (from 0 to 5) which determines how trained a character is that particular skill.
 
-# Abilities 2.0
-Skills often times represent the techniques your character will use to solve problems or get themselevs out of whatever sticky binds you find youself in.
+- **Sense**:  This skill represents a character's heightened awareness and perception. Characters with high Sense can detect hidden traps, notice subtle clues, and perceive incoming threats more effectively than others.
+- **Current**: This skill reflects a character's deep understanding and mastery of arcane knowledge and mystical forces. Characters with a high Current skill are adept at identifying and interpreting magical phenomena, casting complex spells, and deciphering ancient magical texts. They are essential in situations involving magical lore, enchantments, and mystical investigations. 
+- **Might**: This skill is a measure of physical strength and stamina. Characters with high Might can perform feats of brute force, such as breaking down doors, lifting heavy objects, or be particular resistants to poison and endurance tests.
+- **Wild**: This skill reflects a character's affinity with nature and wilderness. Characters skilled in Wild are adept at survival, tracking, and communing with animals, they can navigate through natural terrains effortlessly.
+- **Reflex**: This skill indicates a character's agility and reaction speed. High Reflex allows a character to dodge attacks, perform acrobatic maneuvers, and act quickly in combat situations.
+- **Mettle**: his skill represents mental fortitude and resilience. Characters with strong Mettle can avoid mind manipulation, resist temptations, and remain calm under pressure.
+- **Lore**: This skill signifies knowledge and scholarly intelligence. Characters with high Lore have a deep understanding of history, magic, science, or other fields of study. They can decipher ancient texts, identify rare artifacts, and provide valuable information.
+- **Charm**: This skill is about charisma and social influence. Characters who excel in Charm can persuade, deceive, or inspire others. They are effective in negotiations, diplomacy, and situations where interpersonal skills are key.
+- **Cunning**: This skill embodies cleverness, strategic thinking and the prowess in deceiving and hiding. Cunning characters can devise complex plans, outwit or deceive opponents and can melt with darkness to avoid being detected.
 
-## Strength
+## Testing skills
+To test a skill, the player rolls a number of ten-sided dice (D10) equal to their skill rank plus one. A roll is successful if the die shows a 6 or higher. 
+The difficulty levels for tests are: 
+* Easy (1 success needed)
+* Medium (2 successes)
+* Hard (3 successes)
+* Very hard (4 successes)
 
-**_Strength_** Your Brute check covers situations in which brute force is required. For example, force open a stuck, locked, or barred door, break free of bonds, push through a tunnel that is too small, hang on to a wagon while being dragged behind it, tip over a statue, keep a boulder from rolling
-
-**_Athletics._** Your Athletics check covers difficult situations you encounter while climbing, jumping, or swimming. For example, climbing a slippery cliff, clinging to a wall when someone is trying to knock you off, jumping an unusually long distance, swimming in treacherous waters or staying afloat when being pulled down.
-
-## Grit
-
-## Dexterity
-
-**_Deception._** Your Deception check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, forge a document, or maintain a straight face while telling a blatant lie.
-
-**_Stealth._** Make a Stealth check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard. Until you are discovered or you stop hiding, that check’s total is contested by the Perception check of any creature that actively searches for signs of your presence.
-
-## Knowledge
-
-## Perception
-
-## Cunning
-
-## Influence
-
-
-# Skills 2.0
-Lorium Ipsum
+A test is passed if the number of successes rolled is at least equal to the number of successes required buy the test difficulty.
+Additionally, the game uses the exploding dice rule: each time a player rolls a 10 on a D10, they can roll an additional die.
 
 # Items & Equipment
 
@@ -292,8 +308,6 @@ Characters may start each encounter with any slotted equipment they have in play
 
 ### Items & Equipment Slots
 A player can only have one item in play at a time for each of the following slots: head, body, feet, left hand, and right hand. Weapons and shields specify “One-handed” or “Two-handed”. A player may have two one-handed items (e.g., a sword and a shield) or may have a single two-handed item (e.g., a long-bow). 
-
-<div style='margin-top:30px'></div>
 
 ### Switching Equipment
 If a player has equipment in their hand and already has equipment occupying that slot in play, the player may choose one of the following as a part of playing the new equipment: (a) discard the item in play or (b) return the item in play to the player's hand.
@@ -306,7 +320,4 @@ Legendfall is a collaborative game. Players get to know each other's characters 
 
 ## Metagaming
 Part of the fun of Legendfall is getting into character--seeing the world through your characters eyes. Often times there is information that you as a player might know that your character might not--when you leverage that information to gain an advantage, it’s called “Metagaming”. In general, this makes the game less fun. When a player needs help learning the game and understanding the rules, you should absolutely help them. However, you should try to return to your character's perspective after doing so. In general, you should avoid looking at each others cards (e.g., “If you play that, then I can play…”) and collaborating by talking about your strategy as players, instead of characters (e.g., “Stand in this square to be safe when I...”). The game rewards players who get into their characters and think about how their character would think. Do your best to try to stay “in character” as often as you can.
-
-<img src='https://legendfall.com/tts/ork.png' style='position:absolute; bottom:-60px; right:-10px; width:490px' />
-
 
