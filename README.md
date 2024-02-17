@@ -197,6 +197,13 @@ As you begin to become more serious about Legendfall, the ability to optimize yo
 
 * **Free Actions** - Players may take an unlimited number of free actions.
 
+## Advantage/Disadvantage
+Sometimes during the game, you will gain _advantage_ or _disadvantage_ to dice rolls.
+
+When you gain _advantage_ to a roll, roll 2 dice and pick the highest value.
+
+When you gain _disadvantage_ to a roll, roll 2 dice and pick the lowest value.
+
 ## Attacking
 In Legendfall all attacks are assumed to hit unless the character you are attacking does something (e.g., uses an ability) or there are circumstances in the combat that might cause a player to miss (e.g., a dense fog covers the battlefield, you must roll high to hit). Attacks follow a simple pattern:
 
